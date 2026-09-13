@@ -1,0 +1,9 @@
+{
+  "name": "sabiq",
+  "version": "1.0.0",
+  "description": "A simple static HTML, CSS, and JavaScript project.",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  }
+}
